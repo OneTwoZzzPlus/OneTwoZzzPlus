@@ -3,25 +3,25 @@
 ### About me :relaxed:
 
 - I live in **Saint-Petersburg, Russia**.
-- I study at *"Programming in Information and Communication Systems"* program at ITMO University.
+- I study at *"Programming in Information and Communication Systems"* program at **ITMO University**.
 - I like playing guitar, minecraft, and girls.
 
 ### This is my cute tools :hammer_and_wrench:
 
-[![Python](https://img.shields.io/badge/python-★★★-lightgray?style=for-the-badge&labelColor=3572A5&logo=python&logoColor=white)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/c%23-★☆☆-lightgray?style=for-the-badge&labelColor=178600&logo=c%23&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![C++](https://img.shields.io/badge/c++-★☆☆-lightgray.svg?style=for-the-badge&labelColor=f34b7d&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Go](https://img.shields.io/badge/go-★☆☆-lightgray.svg?style=for-the-badge&labelColor=00ADD8&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/python-★★★-59636e?style=for-the-badge&labelColor=3572A5&logo=python&logoColor=white)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/c%23-★☆☆-59636e?style=for-the-badge&labelColor=178600&logo=c%23&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![C++](https://img.shields.io/badge/c++-★☆☆-59636e.svg?style=for-the-badge&labelColor=f34b7d&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Go](https://img.shields.io/badge/go-★☆☆-59636e.svg?style=for-the-badge&labelColor=00ADD8&logo=go&logoColor=white)](https://go.dev/)
 
-![SQLite](https://img.shields.io/badge/sqlite-★☆☆-lightgray?style=for-the-badge&labelColor=07405e&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-★☆☆-lightgray?style=for-the-badge&labelColor=316192&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-★☆☆-59636e?style=for-the-badge&labelColor=07405e&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-★☆☆-59636e?style=for-the-badge&labelColor=316192&logo=postgresql&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-★★☆-lightgray?style=for-the-badge&labelColor=F05033&logo=git&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash-★★☆-lightgray?style=for-the-badge&labelColor=121011&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-★☆☆-lightgray?style=for-the-badge&labelColor=5391FE&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/git-★★☆-59636e?style=for-the-badge&labelColor=F05033&logo=git&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash-★★☆-59636e?style=for-the-badge&labelColor=121011&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-★☆☆-59636e?style=for-the-badge&labelColor=5391FE&logo=powershell&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-★★☆-lightgray?style=for-the-badge&labelColor=0db7ed&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-★★☆-lightgray?style=for-the-badge&labelColor=FCC624&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-★★☆-59636e?style=for-the-badge&labelColor=0db7ed&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-★★☆-59636e?style=for-the-badge&labelColor=FCC624&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 

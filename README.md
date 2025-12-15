@@ -13,8 +13,9 @@
 [![C++](https://img.shields.io/badge/c++-★☆☆-59636e.svg?style=for-the-badge&labelColor=f34b7d&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Go](https://img.shields.io/badge/go-★☆☆-59636e.svg?style=for-the-badge&labelColor=00ADD8&logo=go&logoColor=white)](https://go.dev/)
 
+![Postgres](https://img.shields.io/badge/postgres-★★☆-59636e?style=for-the-badge&labelColor=316192&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-★☆☆-59636e?style=for-the-badge&labelColor=07405e&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-★☆☆-59636e?style=for-the-badge&labelColor=316192&logo=postgresql&logoColor=white)
+
 
 ![Git](https://img.shields.io/badge/git-★★☆-59636e?style=for-the-badge&labelColor=F05033&logo=git&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash-★★☆-59636e?style=for-the-badge&labelColor=121011&logo=gnu-bash&logoColor=white)
@@ -30,6 +31,8 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -46,8 +49,5 @@
 <!-- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) -->
 
 </details>
-
-<!-- I study -->
-
 
 <!-- https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#usage -->

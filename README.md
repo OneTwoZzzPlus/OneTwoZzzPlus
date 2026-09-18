@@ -14,6 +14,9 @@ In my free time I play guitar and build small electronic projects.
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
 <details>
+<summary>And other...</summary>
+
+<details>
   <summary><b>Languages</b></summary>
   Go · C++ · C# · Kotlin
 </details>
@@ -40,6 +43,7 @@ In my free time I play guitar and build small electronic projects.
 <details>
   <summary><b>Development tools</b></summary>
   Git · Bash · VS Code · PyCharm · WebStorm · Arduino · Unity
+</details>
 </details>
 
 <p align="center">

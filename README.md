@@ -14,36 +14,18 @@ In my free time I play guitar and build small electronic projects.
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
 <details>
-<summary>And other...</summary>
+  <summary>Tech stack</summary><br>
 
-<details>
-  <summary><b>Languages</b></summary>
-  Go · C++ · C# · Kotlin
-</details>
-<details>
-  <summary><b>Web</b></summary>
-  JavaScript · TypeScript · React · HTML · CSS
-</details>
-<details>
-  <summary><b>Python</b></summary>
-  FastAPI · Pydantic · NumPy · Pandas · SciPy · Jupyter
-</details>
-<details>
-  <summary><b>Databases</b></summary>
-   SQL · PostgreSQL · Redis
-</details>
-<details>
-  <summary><b>Monitoring</b></summary>
-  Prometheus · Grafana · Loki · Fluent Bit · Jaeger · Alertmanager
-</details>
-<details>
-  <summary><b>Markup languages</b></summary>
-  Markdown · LaTeX
-</details>
-<details>
-  <summary><b>Development tools</b></summary>
-  Git · Bash · VS Code · PyCharm · WebStorm · Arduino · Unity
-</details>
+<b>Languages</b>: Go · C++ · C# · Kotlin<br>
+<b>Web</b>: JavaScript · TypeScript · React · HTML · CSS<br>
+<b>Python</b>: FastAPI · Pydantic · NumPy · Pandas · SciPy · Jupyter<br>
+<b>Databases</b>: SQL · PostgreSQL · Redis<br>
+<b>Monitoring</b>: Prometheus · Grafana · Loki · Fluent Bit · Jaeger · Alertmanager<br>
+<b>Markup</b>: Markdown · LaTeX<br>
+<b>Tools</b>: Git · Bash<br>
+<b>IDEs</b>: VS Code · PyCharm · WebStorm<br>
+<b>Other</b>: Arduino · Unity
+
 </details>
 
 <p align="center">

@@ -18,6 +18,7 @@ In my free time I play guitar and build small electronic projects.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-00BFCC?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/products/elasticsearch)
 
 <details>
   <summary>Tech stack</summary>
@@ -27,7 +28,7 @@ In my free time I play guitar and build small electronic projects.
 | ---- | ------------ |
 | **Languages** | 🟢 Python · 🟢 JavaScript · 🔵 Go · 🔵 C++ · ⚪ TypeScript · ⚪ C# · ⚪ Kotlin |
 | **Backend** | 🟢 FastAPI · 🟢 Pydantic |
-| **Databases** | 🟢 SQL · 🟢 PostgreSQL · 🔵 Redis · 🔵 Kafka |
+| **Data** | 🟢 SQL · 🟢 PostgreSQL · 🔵 Redis · 🔵 Kafka · 🔵 Elasticsearch |
 | **Data science** | 🟢 Jupyter · 🔵 Pandas · 🔵 Sklearn · ⚪ NumPy · ⚪ SciPy |
 | **Frontend** | 🟢 HTML · 🟢 CSS · 🔵 React |
 | **Infrastructure** | 🟢 Linux · 🟢 Docker · 🟢 Compose · 🔵 Ansible · 🔵 GitHub Actions |
